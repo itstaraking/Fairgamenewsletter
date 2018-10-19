@@ -1,5 +1,5 @@
 # FairGame Apps Newsletter
-Pig latin is a language game where a phrase is translated to Pig Latin by removing the first letter of a given word and placing it at the end of the word and adding the suffix "ay" to the very end of the word. For example, "Pig Latin" in Pig Latin, would be "Igpay Atinlay". Here is an example of the program...
+FairGame Apps is an independent design studio that makes educational apps aimed at teaching learning fundamentals to early learners. The idea was to create a weekly e-newsletter to generate interest and keep in contact with potential app users. This was a basic designed created using HTML and CSS.
 
 ### Here's how it turned out...
 
