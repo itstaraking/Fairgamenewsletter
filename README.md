@@ -3,6 +3,6 @@ FairGame Apps is an independent design studio that makes educational apps aimed 
 
 ### Here's how it turned out...
 
-![FairGameSubscribe](https://itstaraking.github.io/Fairgamenewsletter/subscribeImage.png)
-![FairGameWelcome](https://itstaraking.github.io/Fairgamenewsletter/welcomeImage.png)
-![FairGameUnsubscribe](https://itstaraking.github.io/Fairgamenewsletter/unsubscribeImage.png)
+![FairGameSubscribe](https://itstaraking.github.io/Fairgamenewsletter/subscribeImage)
+![FairGameWelcome](https://itstaraking.github.io/Fairgamenewsletter/welcomeImage)
+![FairGameUnsubscribe](https://itstaraking.github.io/Fairgamenewsletter/unsubscribeImage)
