@@ -1,0 +1,131 @@
+body {
+	margin: 0 !important;
+	padding: 0 !important;
+	-webkit-text-size-adjust: 100% !important;
+	-ms-text-size-adjust: 100% !important;
+	-webkit-font-smoothing: antialiased !important;
+}
+img {
+	border: 0 !important;
+	outline: none !important;
+}
+p {
+	Margin: 0px !important;
+	Padding: 0px !important;
+}
+table {
+	border-collapse: collapse;
+	mso-table-lspace: 0px;
+	mso-table-rspace: 0px;
+}
+td, a, span {
+	border-collapse: collapse;
+	mso-line-height-rule: exactly;
+}
+.ExternalClass * {
+	line-height: 100%;
+}
+.em_defaultlink a {
+	color: inherit !important;
+	text-decoration: none !important;
+}
+span.MsoHyperlink {
+	mso-style-priority: 99;
+	color: inherit;
+}
+span.MsoHyperlinkFollowed {
+	mso-style-priority: 99;
+	color: inherit;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("SignUpImage-100.jpg");
+
+  /* Control the height of the image */
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Full-width input fields */
+  input[type=text] {
+  float: right;
+  clear: both;
+  width: 30%;
+  padding: 10px;
+  margin: 15px 95px 22px 10px;
+  border: none;
+}
+
+input[type=text]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+.btn {
+  float: right;
+  clear: both;
+  background-color: #000000;
+  color: white;
+  margin: 15px 120px;
+  padding: 16px 10px;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+}
+
+ @media only screen and (min-width:481px) and (max-width:699px) {
+.em_main_table {
+	width: 100% !important;
+}
+.em_wrapper {
+	width: 100% !important;
+}
+.em_hide {
+	display: none !important;
+}
+.em_img {
+	width: 100% !important;
+	height: auto !important;
+}
+.em_h20 {
+	height: 20px !important;
+}
+.em_padd {
+	padding: 20px 10px !important;
+}
+}
+@media screen and (max-width: 480px) {
+.em_main_table {
+	width: 100% !important;
+}
+.em_wrapper {
+	width: 100% !important;
+}
+.em_hide {
+	display: none !important;
+}
+.em_img {
+	width: 100% !important;
+	height: auto !important;
+}
+.em_h20 {
+	height: 20px !important;
+}
+.em_padd {
+	padding: 20px 10px !important;
+}
+.em_text1 {
+	font-size: 16px !important;
+	line-height: 24px !important;
+}
+u + .em_body .em_full_wrap {
+	width: 100% !important;
+	width: 100vw !important;
+}
